@@ -1,0 +1,6 @@
+[submodule "tiny-cuda-nn/dependencies/cutlass"]
+	path = tiny-cuda-nn/dependencies/cutlass
+	url = https://github.com/NVIDIA/cutlass.git
+[submodule "tiny-cuda-nn/dependencies/fmt"]
+	path = tiny-cuda-nn/dependencies/fmt
+	url = https://github.com/fmtlib/fmt.git
