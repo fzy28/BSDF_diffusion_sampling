@@ -11,9 +11,7 @@ Official Implementation for *BSDF importance sampling using a diffusion model*
 
 ### About
 
-Currently, I've simply cleaned up my old experimental code and placed it here. I plan to write a cleaner version with comprehensive instructions and annotations later(It now seems to be much longer than I thought, sorry I am busy with my PhD applicaition ｡ﾟ･ (>﹏<) ･ﾟ｡) 
-
-sorrysorrysorry I am too lazy... Likely I will have time to do this around the beginning of next year Feb.  
+Currently, I've simply cleaned up my old experimental code and placed it here. I plan to write a cleaner version with comprehensive instructions and annotations later(It now seems to be much longer than I thought... I failed with my PhD application and now try to get a job... I'll complete this repo once I settle down.) 
 
 However, the code provided here should already be functional and capable of reproducing the results presented in our paper.
 
